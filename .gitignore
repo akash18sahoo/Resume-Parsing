@@ -27,8 +27,7 @@ build/
 uploads/
 temp/
 *.tmp
-INTERVIEW_GUIDE.md
-IMPLEMENTATION.md
+*.md
 
 # OS files
 .DS_Store
