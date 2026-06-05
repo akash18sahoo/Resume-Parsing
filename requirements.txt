@@ -1,0 +1,28 @@
+# Gemini AI (new SDK)
+google-genai>=1.0.0
+
+# Web Framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+
+# PDF Parsing
+PyPDF2>=3.0.0
+pdfminer.six>=20221105
+pymupdf>=1.24.0
+
+# DOCX (Word) Parsing
+python-docx>=1.1.0
+
+# Image Processing
+Pillow>=11.0.0
+
+# Data Validation & Serialization
+pydantic>=2.10.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Utilities
+aiofiles>=24.1.0
+httpx>=0.28.0
