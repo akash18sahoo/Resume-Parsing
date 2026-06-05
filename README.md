@@ -1,5 +1,7 @@
 # 🤖 Gemini AI Resume Parser
 
+> **⚡ Local Web App Link:** [http://localhost:8000](http://localhost:8000) (Click here to open the application when running locally)
+
 An intelligent, full-stack resume parsing system that extracts candidate information from multiple file formats (PDF, DOCX, TXT, and Images) and converts it into structured, validated JSON using **FastAPI** and the modern **Google GenAI SDK** (`gemini-2.5-flash`).
 
 Featuring a premium, single-page dark-mode frontend with glassmorphism design, real-time file upload, parsing status animations, and interactive JSON visualization.
